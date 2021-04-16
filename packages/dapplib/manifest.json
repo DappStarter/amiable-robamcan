@@ -1,0 +1,18 @@
+{
+    "name": "KNOWLEDGE",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "KNOWN",
+        "/category/asset_value_tracking/token/symbol": "KNW",
+        "/category/asset_value_tracking/token/decimals": "2",
+        "/category/asset_value_tracking/token/supply": "30000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "multiple",
+        "/category/collection/entity": true
+    }
+}
